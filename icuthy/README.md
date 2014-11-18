@@ -1,6 +1,8 @@
-Whenever I am at a loss for something to do, I turn to this bookmarded page:
+# Funny Image
 
-http://www.dennyweb.com/singing_horses.htm
+## Always wear a helmet 
+
+![Image of a haystack](http://en.wikipedia.org/wiki/Humour#mediaviewer/File:Cyklisci_dk_ubt.JPG)
 
 
-P.S. What does the ![](URL) do in your example README file?
+P.S. I had never heard of Markdown...until *this* assignment  :smiley:
