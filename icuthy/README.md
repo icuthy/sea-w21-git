@@ -1,8 +1,6 @@
-# Funny Image
+## Bicycle
 
-## Always wear a helmet 
-
-![Image of a haystack](http://en.wikipedia.org/wiki/Humour#mediaviewer/File:Cyklisci_dk_ubt.JPG)
+![](http://img.izismile.com/img/img2/20090514/ginger_kids_06.jpg)
 
 
 P.S. I had never heard of Markdown...until *this* assignment  :smiley:
